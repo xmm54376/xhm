@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-labelledby="title desc">
+  <title id="title">作者头像</title>
+  <desc id="desc">圆形背景中的简洁人物头像插图。</desc>
+  <rect width="240" height="240" rx="48" fill="#d7eee7"/>
+  <circle cx="120" cy="92" r="46" fill="#17211d"/>
+  <path d="M70 195c8-42 30-64 50-64s42 22 50 64" fill="#0f766e"/>
+  <circle cx="102" cy="92" r="5" fill="#f7f8f3"/>
+  <circle cx="138" cy="92" r="5" fill="#f7f8f3"/>
+  <path d="M102 116c12 10 25 10 37 0" fill="none" stroke="#f7f8f3" stroke-width="7" stroke-linecap="round"/>
+  <path d="M74 84c14-38 45-55 88-38 13 5 24 14 31 27-36-4-68-1-119 11Z" fill="#d94f36"/>
+</svg>

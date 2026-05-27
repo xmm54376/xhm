@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 720" role="img" aria-labelledby="title desc">
+  <title id="title">博客书桌插图</title>
+  <desc id="desc">窗边书桌、笔记本电脑、书本和便签组成的个人博客视觉插图。</desc>
+  <rect width="960" height="720" fill="#eff4ea"/>
+  <rect x="72" y="58" width="816" height="604" rx="28" fill="#ffffff"/>
+  <rect x="112" y="96" width="736" height="300" rx="20" fill="#d7eee7"/>
+  <path d="M112 333c90-44 180-39 270 16s184 58 284 10c72-34 132-37 182-8v45H112Z" fill="#70b9aa"/>
+  <path d="M112 299c88-68 181-70 281-7 102 64 191 72 268 23 76-49 138-57 187-22v103H112Z" fill="#0f766e" opacity=".82"/>
+  <circle cx="732" cy="154" r="50" fill="#e8b44d"/>
+  <rect x="180" y="456" width="600" height="34" rx="17" fill="#17211d"/>
+  <rect x="236" y="284" width="386" height="228" rx="18" fill="#24312d"/>
+  <rect x="260" y="310" width="338" height="172" rx="10" fill="#f8faf5"/>
+  <rect x="290" y="344" width="136" height="14" rx="7" fill="#d94f36"/>
+  <rect x="290" y="378" width="258" height="12" rx="6" fill="#9fb0a7"/>
+  <rect x="290" y="406" width="214" height="12" rx="6" fill="#9fb0a7"/>
+  <rect x="650" y="296" width="104" height="142" rx="12" fill="#f4cf70"/>
+  <path d="M676 334h52M676 362h42M676 390h50" stroke="#896927" stroke-width="10" stroke-linecap="round"/>
+  <rect x="568" y="506" width="156" height="28" rx="14" fill="#0f766e"/>
+  <rect x="208" y="502" width="118" height="26" rx="13" fill="#d94f36"/>
+  <rect x="326" y="502" width="118" height="26" rx="13" fill="#8abf73"/>
+  <path d="M165 504c28-10 46-28 54-54 8 26 26 44 54 54-28 10-46 28-54 54-8-26-26-44-54-54Z" fill="#ffffff" opacity=".8"/>
+  <path d="M743 496c22-8 36-22 42-42 7 20 21 34 43 42-22 8-36 22-43 43-6-21-20-35-42-43Z" fill="#ffffff" opacity=".75"/>
+</svg>
